@@ -12,3 +12,5 @@ void add(){
     int b=9;
     int c=a+b;
 }
+
+std::cout << "hello,world2" <<std::endl;
